@@ -1,0 +1,14 @@
+C:\Users\SeverinasFomkinas\source\repos\EPS\EPS.Core\obj\Debug\EPS.Core.csprojAssemblyReference.cache
+C:\Users\SeverinasFomkinas\source\repos\EPS\EPS.Core\obj\Debug\EPS.Core.csproj.CoreCompileInputs.cache
+C:\Users\SeverinasFomkinas\source\repos\EPS\EPS.Core\bin\Debug\EPS.Core.dll.config
+C:\Users\SeverinasFomkinas\source\repos\EPS\EPS.Core\bin\Debug\EPS.Core.dll
+C:\Users\SeverinasFomkinas\source\repos\EPS\EPS.Core\bin\Debug\EPS.Core.pdb
+C:\Users\SeverinasFomkinas\source\repos\EPS\EPS.Core\bin\Debug\EntityFramework.dll
+C:\Users\SeverinasFomkinas\source\repos\EPS\EPS.Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SeverinasFomkinas\source\repos\EPS\EPS.Core\bin\Debug\Newtonsoft.Json.dll
+C:\Users\SeverinasFomkinas\source\repos\EPS\EPS.Core\bin\Debug\EntityFramework.xml
+C:\Users\SeverinasFomkinas\source\repos\EPS\EPS.Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SeverinasFomkinas\source\repos\EPS\EPS.Core\bin\Debug\Newtonsoft.Json.xml
+C:\Users\SeverinasFomkinas\source\repos\EPS\EPS.Core\obj\Debug\EPS.Core.csproj.CopyComplete
+C:\Users\SeverinasFomkinas\source\repos\EPS\EPS.Core\obj\Debug\EPS.Core.dll
+C:\Users\SeverinasFomkinas\source\repos\EPS\EPS.Core\obj\Debug\EPS.Core.pdb
